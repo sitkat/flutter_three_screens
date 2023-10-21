@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_three_screens/calculator_screen.dart';
-import 'package:flutter_three_screens/data_screen.dart';
-import 'package:flutter_three_screens/weather_screen.dart';
+import 'package:flutter_three_screens/screens/calculator_screen.dart';
+import 'package:flutter_three_screens/screens/weather_screen.dart';
+import 'screens/data_screen.dart';
 
 class NavigationScreen extends StatefulWidget {
   const NavigationScreen({super.key});
